@@ -19,8 +19,7 @@ thiisthemark
 
 
 thiisthemark2 
-@startuml;
-
+@startuml
 [*] --> State1;
 State1 --> [*];
 State1 : this is a string;
