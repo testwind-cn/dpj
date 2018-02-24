@@ -34,7 +34,7 @@ er
 </header>
 ´´´
 
-![Alt text](http://g.gravizo.com/g?   a -> b: hello;     b -> a:   h1w2iw;   )
+![Alt text](http://g.gravizo.com/g?a-> b: hello;b -> a:h1w2iw;   )
 
 
 
@@ -58,7 +58,7 @@ er
 [^n]: sdsdsdsdss
 [^7]: 5464646
 
-[6]: &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;dsds&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;6ytytrtyy
+[6]: &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;dsds&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;6ytytrtyy
 
 
 
