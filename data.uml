@@ -1,8 +1,6 @@
 
 thiisthemark        
 @startuml
-Title "继承关系图"
-
 object Object01
 object Object02
 object Object03
