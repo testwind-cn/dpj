@@ -37,6 +37,11 @@ er
 ![Alt text](http://g.gravizo.com/g?a->b:hello;b->a:h1w2iw;)
 
 
+![Alt text](http://g.gravizo.com/svg?a->b:hello;b->a:h1w2iw;)
+
+![Alt text](http://g.gravizo.com/svg?a->b:hello d d;b->a:h1w2iw;)
+
+
 
 ![Alt text](http://g.gravizo.com/g?    a --> b: how are you;note right: greeting;a -> a: i am thinking;b -> a: fine;  )
 
