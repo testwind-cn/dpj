@@ -34,7 +34,7 @@ er
 </header>
 ´´´
 
-![Alt text](http://g.gravizo.com/g?a-> b: hello;b -> a:h1w2iw;   )
+![Alt text](http://g.gravizo.com/g?a->b:hello;b->a:h1w2iw;)
 
 
 
